@@ -29,10 +29,8 @@
 ## Launch the Streamlit app to start monitoring processes.
 ## 
 ## streamlit run visualization.py
-## 7. Access the Interface
-## Open your browser and go to:
+
 ## 
-## http://localhost:8501
 ## 📌 Note
 ## Ensure you have Python 3.x installed.
 ## Install additional packages if prompted by any error messages.
